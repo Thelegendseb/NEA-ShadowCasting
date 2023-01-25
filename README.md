@@ -1,5 +1,5 @@
 # NEA-ShadowCasting
-My Final version of my computing coursework - code section
+My Final version of my computing coursework - code section. This project was created without any use of external libraries, using the standard .NET framework math and graphic namespaces.
 
 # Features
 
